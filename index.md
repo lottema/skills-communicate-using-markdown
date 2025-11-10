@@ -8,3 +8,9 @@
 ``` R
 print("RRRRRRRRRRRR")
 ```
+
+### So much to do :3 
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
